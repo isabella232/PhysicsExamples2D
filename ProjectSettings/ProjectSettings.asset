@@ -259,7 +259,7 @@ PlayerSettings:
   switchSocketAllocatorPoolSize: 128
   switchSocketConcurrencyLimit: 14
   switchUseCPUProfiler: 0
-  switchApplicationID: 0x0005000C10000001
+  switchApplicationID: 0x01004b9000490000
   switchNSODependencies: 
   switchTitleNames_0: 
   switchTitleNames_1: 
